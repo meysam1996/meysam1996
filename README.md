@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+I am Meysam Nosrati and i'm BackEnd developer
 
-**meysam1996/meysam1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#### Skills:
+#### My Skills:
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Vuejs
