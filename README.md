@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-BackEnd developer
+I'm BackEnd developer
 
 #### My Skills:
 
