@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Meysam Nosrati and i'm BackEnd developer
+BackEnd developer
 
 #### My Skills:
 
