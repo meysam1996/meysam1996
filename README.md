@@ -12,5 +12,4 @@ I'm BackEnd developer
 - Laravel
 - Mysql
 - LPIC
-- 
 - 📫 How to reach me: meysamna514@gmail.com
