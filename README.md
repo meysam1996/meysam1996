@@ -7,8 +7,6 @@ I'm BackEnd developer
 - Python
 - Php
 - Script
-- Django
-- Flask
 - Laravel
 - Mysql
 - LPIC
