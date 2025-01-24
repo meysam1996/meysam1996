@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm BackEnd developer
+I'm a back-end developer.
 
-#### My Skills:
+#### Skills:
 
 - Python
 - Php
@@ -10,4 +10,6 @@ I'm BackEnd developer
 - Laravel
 - Mysql
 - LPIC
-- 📫 How to reach me: meysamna514@gmail.com
+
+
+📫 How to reach me: meysamna514@gmail.com
